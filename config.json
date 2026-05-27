@@ -1,0 +1,9 @@
+{
+  "proxy": {
+    "port": 25565
+  },
+  "server": {
+    "host": "your.server.net",
+    "port": 25565
+  }
+}
